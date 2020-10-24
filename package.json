@@ -1,0 +1,14 @@
+{
+  "name": "postmantest",
+  "version": "1.0.0",
+  "description": "postman test for json placeholder",
+  "dependencies": {
+    "newman": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "api-jsonplaceholder-QA": "newman run "D:\Postman Test\jsonplaceholder.postman_collection.json""
+  },
+  "author": "",
+
+}
