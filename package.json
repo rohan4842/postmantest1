@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "api-jsonplaceholder-QA": "newman run D:\Postman Test\jsonplaceholder.postman_collection.json"
+    "api-jsonplaceholder-QA": "newman run D:/Postman Test/jsonplaceholder.postman_collection.json"
   },
   "author": "rohan",
 
